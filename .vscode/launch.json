@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/raghavgarg/Documents/Data-Structures-and-Algorithms/arrays/easy/001_Two_Sum",
+      "program": "/Users/raghavgarg/Documents/Data-Structures-and-Algorithms/arrays/easy/001_Two_Sum/build/Debug/outDebug"
+    }
+  ]
+}
